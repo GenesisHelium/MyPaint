@@ -2,7 +2,7 @@
 Open source and better version of Microsoft Paint.
 
 <p align="center">
-  <img src="Frontend/MyPaint.ico" width="128">
+  <img src="Assets\MyPaint.png" width="128">
 </p>
 
 ## Layout
